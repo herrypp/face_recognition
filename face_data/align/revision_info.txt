@@ -1,0 +1,7 @@
+arguments: contributed/real_time_face_recognizer.py
+--------------------
+tensorflow version: 1.10.1
+--------------------
+git hash: b'0187c079774c962598fcce0bbce3f8636f1a9c49'
+--------------------
+b''
